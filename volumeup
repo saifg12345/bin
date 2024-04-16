@@ -1,4 +1,4 @@
 #!/bin/bash
 
-amixer sset Master 8.5%+,5%+
+amixer sset Master 6%+,5%+
 
